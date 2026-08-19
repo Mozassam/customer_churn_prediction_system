@@ -1,0 +1,18 @@
+{
+  "model": "Logistic Regression",
+  "features": [
+    "age",
+    "tenure_months",
+    "monthly_charges",
+    "support_tickets",
+    "monthly_logins",
+    "late_payment",
+    "contract_type",
+    "internet_service",
+    "payment_method",
+    "paperless_billing",
+    "has_dependents",
+    "satisfaction_score",
+    "data_usage_gb"
+  ]
+}
